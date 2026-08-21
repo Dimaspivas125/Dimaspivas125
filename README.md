@@ -16,15 +16,11 @@ My goal is to become a **Cybersecurity Engineer**, focusing on web security, clo
 
 ## 🛡️ Cybersecurity Focus
 - Web security (PortSwigger labs)
-- OWASP Top 10 fundamentals
-- API security & authentication
-- Linux security basics
-- Cloud IAM & access control
 
 ---
 
 ## 🌱 Currently Learning
-- Backend development (Go, Python)
+- Backend development (Python)
 - DevOps fundamentals (Linux, Docker, CI/CD)
 - Web exploitation techniques
 - Secure coding practices
@@ -32,10 +28,9 @@ My goal is to become a **Cybersecurity Engineer**, focusing on web security, clo
 ---
 
 ## 🛠 Tech Stack
-**Languages:** Go, Python, JavaScript  
+**Languages:** Python, JavaScript  
 **Tools:** Git, Docker, Linux  
-**Security:** Burp Suite, OWASP tools  
-**Cloud:** AWS (beginner)
+**Cloud:** AWS (beginner), Azure (beginner)
 
 ---
 
@@ -49,12 +44,6 @@ More coming soon — building my cybersecurity portfolio.
   <img src="https://github-readme-stats.vercel.app/api?username=Dimaspivas125&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimaspivas125&layout=compact&theme=tokyonight" height="160"/>
 </p>
-
----
-
-## 📫 Contact
-- Discord: *(add your username)*
-- Email: *(add your email)*
 
 ---
 
