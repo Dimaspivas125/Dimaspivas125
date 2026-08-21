@@ -16,7 +16,7 @@ My goal is to become a **Cybersecurity Engineer**, focusing on web security, clo
 
 ## 🛡️ Cybersecurity Focus
 - Web security (PortSwigger labs)
-
+- Linux
 ---
 
 ## 🌱 Currently Learning
