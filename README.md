@@ -1,16 +1,61 @@
-## Hi there 👋
+<!-- Banner -->
+<h1 align="center">⚡ Dima — Future Cybersecurity Engineer ⚡</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-In_Progress-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-Go%20%7C%20Python-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DevOps-Linux%20%7C%20Docker-orange?style=for-the-badge"/>
+</p>
 
-<!--
-**Dimaspivas125/Dimaspivas125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔥 About Me
+I'm Dima — learning how modern systems are built, broken, and secured.  
+My goal is to become a **Cybersecurity Engineer**, focusing on web security, cloud security, and backend vulnerabilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛡️ Cybersecurity Focus
+- Web security (PortSwigger labs)
+- OWASP Top 10 fundamentals
+- API security & authentication
+- Linux security basics
+- Cloud IAM & access control
+
+---
+
+## 🌱 Currently Learning
+- Backend development (Go, Python)
+- DevOps fundamentals (Linux, Docker, CI/CD)
+- Web exploitation techniques
+- Secure coding practices
+
+---
+
+## 🛠 Tech Stack
+**Languages:** Go, Python, JavaScript  
+**Tools:** Git, Docker, Linux  
+**Security:** Burp Suite, OWASP tools  
+**Cloud:** AWS (beginner)
+
+---
+
+## 📂 Projects
+More coming soon — building my cybersecurity portfolio.
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dimaspivas125&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimaspivas125&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 📫 Contact
+- Discord: *(add your username)*
+- Email: *(add your email)*
+
+---
+
+<p align="center"><b>⚡ Securing one repo at a time ⚡</b></p>
