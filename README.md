@@ -2,7 +2,7 @@
 <h1 align="center">⚡ Dima — Future Cybersecurity Engineer ⚡</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-In_Progress-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Backend-Go%20%7C%20Python-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-Python-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DevOps-Linux%20%7C%20Docker-orange?style=for-the-badge"/>
 </p>
 
